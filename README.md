@@ -2,6 +2,13 @@
 
 This repository contains a Jupyter Notebook for a fake news detection project. The notebook explores a dataset of news articles and implements machine learning models to classify them as either real or fake news.
 
+
+### Fake News Detection 📰
+
+![Fake News Detection](https://github.com/alzx1/Fake-News-Detection/blob/main/image.png)
+
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
